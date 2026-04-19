@@ -1,0 +1,13 @@
+**/*.class
+**/*.jar
+lib/
+**/lib/
+.vscode/settings.json
+.vscode/launch.json  # optional, if not needed
+*.log
+target/
+out/
+build/
+.DS_Store
+Thumbs.db
+
